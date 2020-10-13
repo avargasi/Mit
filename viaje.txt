@@ -1,0 +1,7 @@
+packing list
+---------------
+zapatos
+calcetines
+pantalon
+polera 
+chaqueta
