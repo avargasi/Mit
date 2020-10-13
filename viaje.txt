@@ -1,7 +1,10 @@
 packing list
 ---------------
-zapatos
-calcetines
-pantalon
-polera 
-chaqueta
+- Zapatos
+- Calcetines
+- Pantalon
+- Polera 
+- Chaqueta
+Picnic
+--------------
+- Pan
